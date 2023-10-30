@@ -22,7 +22,7 @@ mas volto a enaltecer que esta foi a minha primeira automação que funciou
 perfeitamente NO MEU COMPUTADOR.
 
 ----------------------------------------------------------------------------
-### VocÇe pode ajudar:
+### Você pode ajudar:
 - Fazendo um fork
 - Entrando em contato para dicas
 - 
